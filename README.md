@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @satvik3110
 - 👀 I’m interested in Web Development | Back-end | Front-end
-- 🌱 I’m currently learning Java, Angular, CSS & HTML, JS, nodeJS.
-- 💞️ I’m looking to collaborate on Full Stack Web Development Projects
+- 🌱 I’m currently learning Java and Spring, Spring Boot.
 - 📫 How to reach me ....
 
 <!---
